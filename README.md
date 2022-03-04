@@ -3,5 +3,5 @@ Prufugeymsla fyrir skólann
 
 Annar texti 
 
-Og enn annar.
+
 
